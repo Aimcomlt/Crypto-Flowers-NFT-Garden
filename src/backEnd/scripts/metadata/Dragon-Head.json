@@ -1,0 +1,35 @@
+{
+	"name": "Dragon-Head",
+	"description": "CRYPTO GARDEN @rt - X, 21/09/01, ~CRYPTG",
+	"image": "https://ipfs.io/ipfs/QmSypdNW4by8adVBxvEvtzah3L3e5XkoiSa1HLgKtYKr5Z/Dragon-Head.png",
+	"spects": "https://trx.cryptoflowers.io/18753",
+	"attributes": [
+		{
+			"Camobera": 24
+		},
+		{
+			"Shimmer": 19
+		},
+		{
+			"Basic": 23
+		},
+		{
+			"ScalyStalk": 32
+		},
+		{
+			"Spark": 23
+		},
+		{
+			"SolarCitrine": 12
+		},
+		{
+			"GentleViolet": 11
+		},
+		{
+			"WildGold": 8
+		},
+		{
+			"RedGold": 9
+		}
+	]
+}

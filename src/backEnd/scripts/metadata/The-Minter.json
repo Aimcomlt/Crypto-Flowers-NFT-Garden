@@ -1,0 +1,20 @@
+{
+	"name": "The-Minter",
+	"description": "CRYPTO GARDEN @rt - X, 21/09/01, ~CRYPTG",
+	"image": "https://ipfs.io/ipfs/QmSypdNW4by8adVBxvEvtzah3L3e5XkoiSa1HLgKtYKr5Z/The-Minter.png",
+	"spects": "http://bafybeiep52d75dxgydgjv57cyqkqln2wb2wg7ojw3wk65oxok5dkcik2le.ipfs.localhost:8080/?filename=The-Minter-PDF.pdf",
+	"attributes": [
+		{
+			"Engine_type": "D"
+		},
+		{
+			"Max_LightSpeed": 0.01
+		},
+		{
+			"Gargo_Space": 0
+		},
+		{
+			"Special_Ability": "minter"
+		}
+	]
+}

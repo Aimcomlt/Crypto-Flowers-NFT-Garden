@@ -1,0 +1,35 @@
+{
+	"name": "RedScale",
+	"description": "CRYPTO GARDEN @rt - X, 21/09/01, ~CRYPTG",
+	"image": "https://ipfs.io/ipfs/QmSypdNW4by8adVBxvEvtzah3L3e5XkoiSa1HLgKtYKr5Z/RedScale.png",
+	"spects": "https://trx.cryptoflowers.io/18759",
+	"attributes": [
+		{
+			"Hyppeus": 23
+		},
+		{
+			"TwinLine": 18
+		},
+		{
+			"Gala": 3
+		},
+		{
+			"ScalyStalk": 32
+		},
+		{
+			"Spark": 23
+		},
+		{
+			"HeavenlyTopaz": 8
+		},
+		{
+			"LightBlue": 9
+		},
+		{
+			"StrongBlue": 11
+		},
+		{
+			"DarkWine": 2
+		}
+	]
+}

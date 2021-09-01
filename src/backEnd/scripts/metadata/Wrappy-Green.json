@@ -1,0 +1,35 @@
+{
+	"name": "Wrappy-Green",
+	"description": "CRYPTO GARDEN @rt - X, 21/09/01, ~CRYPTG",
+	"image": "https://ipfs.io/ipfs/QmSypdNW4by8adVBxvEvtzah3L3e5XkoiSa1HLgKtYKr5Z/Wrappy-Green.png",
+	"spects": "https://trx.cryptoflowers.io/18825",
+	"attributes": [
+		{
+			"CommonMallow": 4
+		},
+		{
+			"Firework": 18
+		},
+		{
+			"Hairy": 5
+		},
+		{
+			"LeafLoaf": 34
+		},
+		{
+			"Ring": 5
+		},
+		{
+			"PureGreen": 10
+		},
+		{
+			"EarlySprping": 10
+		},
+		{
+			"WhiteDiamond": 3
+		},
+		{
+			"DarkWine": 2
+		}
+	]
+}
